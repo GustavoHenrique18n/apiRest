@@ -29,7 +29,7 @@ inicie server para o projeto ser executado localmente.
     "dev":"tsnd src/server.ts"
     }
 ```
-###utilizando outra biblioteca
+### utilizando outra biblioteca para envio de emails fakes
 ```
 $yarn add nodemailer 
 ```
