@@ -29,4 +29,8 @@ inicie server para o projeto ser executado localmente.
     "dev":"tsnd src/server.ts"
     }
 ```
+###utilizando outra biblioteca
+```
+$yarn add nodemailer 
+```
 
