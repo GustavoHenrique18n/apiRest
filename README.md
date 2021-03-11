@@ -1,3 +1,12 @@
+<div align='center'>
+ 
+ ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)|
+ ![image](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+ ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+ 
+ </div>
+
+
 # 🛠 tecnologias 🛠
  - Node.Js - [DOWNLOAD](https://nodejs.org/en/)
  - Express.Js[DOCUMENTAÇÃO](http://expressjs.com/);
